@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+*.code-workspace
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local scratch
+*.log
+.env
+
+# files
+logo.png
